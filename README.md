@@ -6,7 +6,8 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 Results:
 
-![Getting Started](./images/images/14504BA0-1D59-4816-9A0F-D72A644D92FE_1_105_c.jpeg)
+
+![](2021-12-04-13-01-12.png)
 
 
 There is a description of how to perform a search, with images. (4 pt)
