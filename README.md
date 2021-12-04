@@ -6,7 +6,7 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 Results:
 
-See image on the images folder
+
 
 ![](images/2021-12-04-13-01-12.png)
 
